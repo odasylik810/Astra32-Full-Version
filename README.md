@@ -235,3 +235,6 @@ This repository serves as the official landing page for ASTRA32. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ASTRA32 today!**
+
+---
+**Last updated:** 2026-09-08 08:45:11 UTC
