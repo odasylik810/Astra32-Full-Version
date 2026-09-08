@@ -237,4 +237,4 @@ This repository serves as the official landing page for ASTRA32. The software is
 **Get the most recent version of ASTRA32 today!**
 
 ---
-**Last updated:** 2026-09-08 17:50:36 UTC
+**Last updated:** 2026-09-08 20:56:08 UTC
